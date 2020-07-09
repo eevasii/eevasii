@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 😸
 I'm a startup entrepreneur, part time student, and a full snack developer.
 
 I also code occationally, believe it or not. I'm mostly interested into mobile app development currently, and I document my progress & learnings here occationally.
