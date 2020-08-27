@@ -1,7 +1,7 @@
 ### Hey there 😸
 I'm a startup entrepreneur, part time student, and a full snack developer.
 
-I also code occationally, believe it or not. I'm mostly interested into mobile app development currently, and I document my progress & learnings here occationally.
+I also code occationally, believe it or not. I'm mostly interested in mobile app development currently, and I document my progress & learnings here occationally.
 
 You can find ne on Twitter at [@eevasii](https://www.twitter.com/eevasii) and on Linkedin [@eevasii](https://www.linkedin.com/in/eevasii/). Feel free to reach out!
 
